@@ -1,0 +1,28 @@
+body{
+    font-family: cursive;
+    background-image: url(download.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    text-align: center;
+    margin: 0;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: red;
+}
+a:active{
+    color: yellow;
+}
+
+.container {
+    width: 1500px;
+    max-width: 100%;
+    min-height: 400px;
+    margin: 0 auto;
+}
